@@ -9,7 +9,7 @@ DEV JIG "PKG"
 
 1/
 
-2/
+2/ as a repo collab: issue=>branch=>code=>pr=>reviewed=>[resolve conflicts]=.merge.
 
 3/ Code review,
 
