@@ -18,8 +18,7 @@ proof: https://github.com/barrycumbie/turbo-potato-sobie-profile/blob/main/docs/
 PR 105 = https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/105
 
 TEST JIG 2
-![image](https://github.com/user-attachments/assets/6d4612a7-b2bc-4210-b37a-7db9dc8736d2)
-
+![image](https://github.com/user-attachments/assets/4d52f429-a335-443c-94f5-c4bba8a21f59)
 
 3/ Code review,
 
