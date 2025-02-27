@@ -11,6 +11,11 @@ DEV JIG "PKG"
 
 2/ as a repo collab: issue=>branch=>code=>pr=>reviewed=>[resolve conflicts]=.merge.
 
+PR 105 = https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/105
+
+TEST JIG 2
+
+
 3/ Code review,
 
 reviewed pr104 https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/104#pullrequestreview-2642618770
